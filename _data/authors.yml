@@ -14,3 +14,15 @@ Cornelius Fiddlebone:
   name: Cornelius Fiddlebone
   picture: /images/bio-photo.jpg
   twitter: corneliusfiddlebone
+
+homayoon:
+  name: Homayoon Alimohammadi
+  picture: /images/Me.jpg
+  twitter: "@homayoonalm"
+  links:
+    - title: Twitter
+      url: https://twitter.com/homayoonalm
+      icon: fab fa-twitter-square
+    - title: LinkedIn
+      url: https://linkedin.com/homayoon-alimohammadi
+      icon: fab fa-linkedin-square
